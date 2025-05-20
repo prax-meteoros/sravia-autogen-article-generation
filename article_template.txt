@@ -1,0 +1,15 @@
+# $TITLE
+
+## Introduction
+$INTRO_PARAGRAPH
+
+## Key Impact Areas
+- $POINT_1
+- $POINT_2
+- $POINT_3
+
+## Conclusion
+$CONCLUSION_PARAGRAPH
+
+End of the article.
+---
